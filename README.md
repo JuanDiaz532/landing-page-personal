@@ -1,4 +1,4 @@
-# Landing Page Personal
+## Landing Page - Portafolio de Juan
 Página web simple de presentación personal, creada como parte de un
 proyecto de práctica en control de versiones con Git y GitHub.
 
