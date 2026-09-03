@@ -1,4 +1,4 @@
-# Landing Page Personal
+# Mi Landing Page Personal
 Página web simple de presentación personal, creada como parte de un
 proyecto de práctica en control de versiones con Git y GitHub.
 
